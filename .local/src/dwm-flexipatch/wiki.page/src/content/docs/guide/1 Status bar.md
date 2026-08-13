@@ -4,7 +4,7 @@ title: Status Bar Guide
 
 <div align="center">
     <h1>Status Bar Guide</h1>
-    <img src="https://github.com/ahmadjerjawi/Dotfiles-Dwm-envirmoent/raw/main/local/src/dwmblocks/status%20bar.jpg" alt="status-bar">
+    <img src="https://github.com/ahmadjerj/Dotfiles-Dwm-envirmoent/raw/main/local/src/dwmblocks/status%20bar.jpg" alt="status-bar">
 </div>
 
 ## Introduction
