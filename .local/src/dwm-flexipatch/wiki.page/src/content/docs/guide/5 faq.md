@@ -34,4 +34,4 @@ By default, `mpd`, the music daemon assumes that `~/Music` is your music directo
 
 You can follow links via the keyboard in this PDF reader by pressing `f` followed by the number that appears on the desired link.
 
-- [My Github Page](https://github.com/ahmadjerjawi) - For the dotfiles you are using/modifying.
+- [My Github Page](https://github.com/ahmadjerj) - For the dotfiles you are using/modifying.
