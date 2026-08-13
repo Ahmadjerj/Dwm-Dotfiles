@@ -11,7 +11,7 @@ title: Install / Update / Uninstall
 
 Just run the following command.
 ```bash
-git clone "https://raw.githubusercontent.com/ahmadjerjawi/Dotfiles-Dwm-envirmoent/main/install.sh" && sudo ./install.sh
+git clone "https://raw.githubusercontent.com/ahmadjerj/Dotfiles-Dwm-envirmoent/main/install.sh" && sudo ./install.sh
 ```
 
 ### For NixOS
