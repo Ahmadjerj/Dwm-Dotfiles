@@ -8,13 +8,13 @@ title: Showcase
 
 
 ## Dotfiles Dwm Envirmoent (DDE)
-[GitHub](https://github.com/ahmadjerjawi/Dotfiles-Dwm-envirmoent)
+[GitHub](https://github.com/ahmadjerj/Dotfiles-Dwm-envirmoent)
 
-![pic-full-240219-2014-56](https://github.com/ahmadjerjawi/Dotfiles-Dwm-envirmoent/assets/72747814/448ad4a0-446a-47c7-9811-5ebb95cf1878)
-![pic-full-240219-2014-56](https://github.com/ahmadjerjawi/Dotfiles-Dwm-envirmoent/assets/72747814/448ad4a0-446a-47c7-9811-5ebb95cf1878)
-![pic-full-240321-1907-50](https://github.com/ahmadjerjawi/Dotfiles-Dwm-envirmoent/assets/72747814/5fd8f7bc-b270-4b92-96a0-137544ca63e2)
-![pic-full-240321-1911-30](https://github.com/ahmadjerjawi/Dotfiles-Dwm-envirmoent/assets/72747814/a7268d18-b588-4ef3-bd8e-6df5de324a83)
-![pic-full-240321-1910-04](https://github.com/ahmadjerjawi/Dotfiles-Dwm-envirmoent/assets/72747814/ba5e6ad4-b26c-432a-b5c4-7a9db468c90d)
+![pic-full-240219-2014-56](https://github.com/ahmadjerj/Dotfiles-Dwm-envirmoent/assets/72747814/448ad4a0-446a-47c7-9811-5ebb95cf1878)
+![pic-full-240219-2014-56](https://github.com/ahmadjerj/Dotfiles-Dwm-envirmoent/assets/72747814/448ad4a0-446a-47c7-9811-5ebb95cf1878)
+![pic-full-240321-1907-50](https://github.com/ahmadjerj/Dotfiles-Dwm-envirmoent/assets/72747814/5fd8f7bc-b270-4b92-96a0-137544ca63e2)
+![pic-full-240321-1911-30](https://github.com/ahmadjerj/Dotfiles-Dwm-envirmoent/assets/72747814/a7268d18-b588-4ef3-bd8e-6df5de324a83)
+![pic-full-240321-1910-04](https://github.com/ahmadjerj/Dotfiles-Dwm-envirmoent/assets/72747814/ba5e6ad4-b26c-432a-b5c4-7a9db468c90d)
 
 
 ## Things I Did
